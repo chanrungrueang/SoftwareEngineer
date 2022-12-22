@@ -3,3 +3,4 @@ push2
 push3
 push2*2
 push5
+push6
